@@ -1,2 +1,2 @@
 # hello-world
-how is it
+This is how we can commit in git hub
