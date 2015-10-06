@@ -1,4 +1,4 @@
-USE [SAIRAMEC_EDUMATE]
+
 GO
 /****** Object:  StoredProcedure [dbo].[ApplySecurity]    Script Date: 10/3/2015 3:19:52 PM ******/
 SET ANSI_NULLS ON
